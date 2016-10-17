@@ -13,7 +13,7 @@
 #define BUF_SIZE 256
 #endif
 
-void* dostuff(void * socketfd);
+void* dostuff(void * socketfd);	
 void error(const char *msg);
 
 int main(int argc, char *argv[])
